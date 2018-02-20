@@ -1,0 +1,21 @@
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.csv
+*.txt
+*.rtf
+*.xlsx
+*.pdf
+*.PNG
+*.png
+*.jpeg
+*.jpg
+*.pyc
+*.cfg
+*.gif
+*.ipynb_checkpoints
+
+# Folders #
+###########
+chewy/
